@@ -62,7 +62,7 @@ Includes thorough documentation on setup, usage, and customization.
 Provides a step-by-step guide for building, editing, and deploying forms.
 
 ## Tech Stack
-- **Frontend:** HTML, Angular
+
 - **Data Handling:** Dynamic JSON structures, conditional rendering
 
 
