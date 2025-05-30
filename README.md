@@ -52,9 +52,7 @@ This project bridges:
 - 🗂️ Data Modeling  
 - 🎨 UX/UI Design  
 - ⚙️ Component Reusability  
-- 🔄 State Management
 
----
 
 ## 📦 Components Overview
 
